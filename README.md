@@ -1,2 +1,3 @@
-# prion-protein-analysis
-Analysis of human prion protein structure, sequence, and aggregation propensity using BioPython and public structural databases.
+# Prion Protein Analysis
+
+Computational analysis of human prion protein structure, sequence, and aggregation propensity using BioPython and public structural databases.
